@@ -1,6 +1,6 @@
 cask "notchpill" do
-  version "1.7.1"
-  sha256 "fbae0e632f62e578949ad3b469be25e7cf7170064c3699b2a8a06d374a00eba3"
+  version "1.8.0"
+  sha256 "c460652f28bde531f428730944421c11c5e5027a4f7091c4927d4cf63a7864a3"
 
   url "https://github.com/shawngeorgie06/NotchPill/releases/download/v#{version}/NotchPill-#{version}-macOS-arm64.zip"
   name "NotchPill"
